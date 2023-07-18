@@ -1,0 +1,94 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+html {
+    background: #6FEB53;
+}
+
+html,
+body {
+    margin: 0;
+}
+
+#image {
+    position: fixed;
+    bottom: 0;
+    width: 65%;
+    padding: 0em 1em 2.5em 3.8em
+}
+
+#wrap1 {
+    background: #6FEB53;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 70%;
+    height: 100em;
+    margin: 0;
+    display: inline-block;
+}
+
+#wrap2 {
+    background: black;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 30%;
+    height: 100em;
+    margin: 0;
+    display: inline-block;
+}
+
+#font {
+    position: fixed;
+    bottom: 0;
+    width: 28%;
+    margin: 0;
+    padding: 2.5em;
+}
+
+.type {
+    width: 7.3em;
+    margin-left: -1.049em;
+    margin-top: -1.38em;
+    display: inline-block;
+}
+
+.type2 {
+    width: 2.5em;
+    display: inline-block;
+    margin-right: 0.4em;
+    margin-bottom: 0.1em;
+}
+
+.type3 {
+    width: 7.3em;
+    margin-left: -1.33em;
+    margin-top: -1.38em;
+    display: inline-block;
+}
+
+.type4 {
+    width: 2.5em;
+    display: inline-block;
+    margin-right: 0.1em;
+    margin-bottom: 0.1em;
+}
+
+img {
+    width: 100%;
+}
+
+#notice {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    background: black;
+    color: #6FEB53;
+    font-weight: 600;
+    font-size: 1.3em;
+    padding: 10px;
+    text-align: center;
+}
